@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntdat104/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "backend"
+  ],
+  "author": "ntdat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntdat104/nodejs/issues"
+  },
+  "homepage": "https://github.com/ntdat104/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
