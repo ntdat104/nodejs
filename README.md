@@ -7,3 +7,4 @@
 
 # Bước 2:
 - Cấu hình package.json "start": "nodemon --inspect index.js",
+- Thêm file .gitignore (/node_modules)
